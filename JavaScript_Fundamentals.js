@@ -797,11 +797,12 @@
 //   return s%2
 // })
 // console.log(r);
-//
-/////////////////////////
-var s=[1,2,5,4,6,8,9]
- var r=s.map((s)=>{
-  return s/2
-}
-)
-console.log(r);
+// //
+// /////////////////////////
+// var s=[1,2,5,4,6,8,9]
+//  var r=s.map((s)=>{
+//   return s/2
+// }
+// )
+// console.log(r);
+gfcjhgknmlkjhgdykuihjkmnvy
